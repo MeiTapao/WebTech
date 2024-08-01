@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Song Lyrics</title>
+    
+  </head>
+  <body>
+  <center>
+    <h1>23</h1>
+    <h3>Song by Kyle Hume</h3>
+    <hr>
+      
+<p>Seems like everybody's falling in love except for me<br>
+Maybe I, maybe I'll find love when I'm 23<br>
+They say, "Boy, just make up your mind, you're wasting your time<br>
+Waiting for someone who will set you free"<br>
+Well, I'm sorry but I disagree<p/>
+
+<p>And all the stars and TV shows<br>
+Act like it's so wrong to be alone<br>
+Why's it so hard for them to see?<br>
+That I'm good by myself<br>
+But that don't mean that I don't want that someone else<br>
+To finally fall in love with<br>
+'Cause I'm not lonely, but I'll take my one and only<br>
+If she finds me, then I won't say no</p>
+
+<p>I guess nobody finds the wrong way to do it right<br>
+Maybe I, maybe I'll find love in another life<br>
+Because I'd rather wait a million days than settle for a lie<br>
+That fake love is a waste of time</p>
+
+<p>If fairytales are overrated<br>
+I don't mean to come off jaded<br>
+But why can't you see I'm doing fine?<br>
+'Cause I'm good by myself<br>
+But that don't mean that I don't want that someone else<br>
+To finally fall in love with<br>
+'Cause I'm not lonely, but I'll take my one and only<br>
+If she finds me, then I won't say no<br>
+I won't say no</p>
+   
+  </center>
+  </body>
+</html>
